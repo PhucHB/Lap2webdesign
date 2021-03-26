@@ -1,0 +1,59 @@
+
+  img{
+      display: inline-block;
+  }
+  h1{
+      display: inline-block;
+      text-align: center;
+  }
+  body{
+    background: url(https://lh3.googleusercontent.com/proxy/C-0WmCQpBu5G1wHJtKIzLmWiEsvN6n9G-ErBuyclB9JmkMnaYnHUF6wf-_AFv6Ggc9GNIjnsCIZI6bVifGh-A0CvyzP-https://th.bing.com/th/id/R8f9a2d8056c970b2635bb54a1be29766?rik=FAeaOw2Bd1vZdQ&riu=http%3a%2f%2fwonderfulengineering.com%2fwp-content%2fuploads%2f2014%2f01%2fTechnology-Wallpaper-20.jpg&ehk=OdTQHv64lCerySGiAMXvAb7h8MQYsZGfoivt4O2lUS4%3d&risl=&pid=ImgRaw);
+     background-size: cover;
+    font-size: 16px;
+    font-family: Lato, sans-serif;
+    
+  }
+  
+  section {
+    text-align: center;
+
+  }
+  article {
+    background-color: #262626;
+    display: inline-block;
+    width: 23%;
+    margin: 80px 20px 0 20px;
+    border: 5px solid #424242;
+    color: #a1a1a1;
+  }
+  article h1 {
+    font-size: 3em;
+    color: blueviolet  ;
+  }
+  article .price {
+    font-size: 3em;
+    font-weight: bold;
+    color: #27dcc4;
+  }
+  article ul {
+    padding: 0;
+  }
+  article button {
+    background-color: #27dcc4;
+    color: #FFFFFF;
+    padding: 15px 30px;
+    margin: 10px 0;
+    font-size: 0.9em;
+    cursor: pointer;
+    border: none;
+  }
+  article ul li {
+    list-style-type: none;
+    padding: 5px 0;
+  }
+  article button:hover {
+    background-color: #acacac;
+  }
+      
+  
+  
